@@ -8,9 +8,13 @@
 
 #### Tools used in this project:
 
-- CSS and SASS
-- BEM (Block Element Modifier)
-- Animations: Transitions and @keyframes Rules
+- CSS and Sass
+- CSS architecture:
+  1. Component-based design
+  1. BEM (Block Element Modifier)
+  1. Writing reusable code
+- Using Sass global variables, mixins and functions
+- Animations, Transitions and @keyframes Rules
 - Color-gradients and clip-paths
-- Background Images, Background Videos
+- SVG images and videos in HTML and CSS
 - Advanced Media Query and Responsive Images
